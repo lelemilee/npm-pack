@@ -1,0 +1,5 @@
+npm ERR! code ENOLOCAL
+npm ERR! Could not install from "" as it does not contain a package.json file.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\admin\AppData\Roaming\npm-cache\_logs\2021-07-14T16_46_36_428Z-debug.log
