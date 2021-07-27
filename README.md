@@ -19,3 +19,8 @@ script to download npm packages and its respective dependency from `package.json
 ## Uploading npm packages to your registry
 
 1. Run `upload.sh $PRIVATE_REGISTRY`
+
+# Contributors
+
+[bladerail](https://github.com/bladerail)
+[lelemilee](https://github.com/lelemilee)
